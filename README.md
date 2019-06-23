@@ -10,3 +10,7 @@ How to create virtual env:
         
         pip install -r requirements.txt
 
+
+
+On MAC OS please additionally install:
+	brew install libomp
